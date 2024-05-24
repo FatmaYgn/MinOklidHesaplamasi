@@ -1,0 +1,1 @@
+# Min-klid-Mesafesinin-Hesaplanmas-
