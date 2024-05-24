@@ -1,1 +1,1 @@
-# Min-klid-Mesafesinin-Hesaplanmas-
+# Min Oklid Mesafesinin Hesaplanmasi
