@@ -42,6 +42,6 @@ Bu kodu çalıştırarak verilen noktalar arasındaki minimum Öklid Mesafesini 
 
 --- Output ---
 
-  Minimum Öklid Mesafesi: 1.4142135623730951 <br>
-  En yakın noktalar: ((1, 2), (2, 1))
+    Minimum Öklid Mesafesi: 1.4142135623730951
+    En yakın noktalar: ((1, 2), (2, 1))
 
